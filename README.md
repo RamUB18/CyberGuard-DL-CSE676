@@ -1,4 +1,4 @@
-# Deep Learning Project CSE676
+# Deep Learning - NLP Project CSE676
 This is a collaborated repository of Ramanathan, Akhil Krishnan Sunil and Anirudh for Deep Learning course Project
 
 Data Set: It contains 47693 sentences, each tagged with a cyberbullying sentiment type, such as race, gender, religion, age, and not a cyberbullying sentence.
